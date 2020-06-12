@@ -1,3 +1,4 @@
+# rubocop:disable Style/Documentation
 # frozen_string_literal: true
 
 require_relative 'boot'
@@ -13,3 +14,4 @@ module MicroReddit
     config.load_defaults 5.2
   end
 end
+# rubocop:enable Style/Documentation

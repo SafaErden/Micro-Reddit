@@ -1,3 +1,4 @@
+# rubocop:disable Style/Documentation
 # frozen_string_literal: true
 
 class User < ApplicationRecord
@@ -8,3 +9,4 @@ class User < ApplicationRecord
   validates :email, presence: true, length: { minimum: 2, maximum: 12 }
   validates :date_of_birth, presence: true, length: { minimum: 2, maximum: 12 }
 end
+# rubocop:enable Style/Documentation

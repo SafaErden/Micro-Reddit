@@ -1,3 +1,4 @@
+# rubocop:disable Style/Documentation
 # frozen_string_literal: true
 
 class CreateUsers < ActiveRecord::Migration[5.2]
@@ -10,3 +11,4 @@ class CreateUsers < ActiveRecord::Migration[5.2]
     end
   end
 end
+# rubocop:enable Style/Documentation

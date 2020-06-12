@@ -1,3 +1,4 @@
+# rubocop:disable Style/Documentation
 # frozen_string_literal: true
 
 class Post < ApplicationRecord
@@ -6,3 +7,4 @@ class Post < ApplicationRecord
   validates :title, presence: true, length: { minimum: 2, maximum: 20 }
   validates :body, presence: true, length: { minimum: 2, maximum: 200 }
 end
+# rubocop:enable Style/Documentation
