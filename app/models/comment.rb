@@ -1,6 +1,3 @@
-# rubocop:disable Style/Documentation
-# frozen_string_literal: true
-
 class Comment < ApplicationRecord
   belongs_to :post
   belongs_to :user
@@ -10,4 +7,3 @@ class Comment < ApplicationRecord
   validates :user_id, presence: true, numericality: { only_integer: true }
   validates :post_id, presence: true, numericality: { only_integer: true }
 end
-# rubocop:enable Style/Documentation

@@ -15,8 +15,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-- Web Browser
-- Text Editor
+- Terminal
 
 ### Setup
 
@@ -33,12 +32,18 @@ To get a local copy up and running follow these simple example steps.
 - Twitter: [@krys2fa](https://twitter.com/krys2fa)
 - Linkedin: [Christopher Amanor](https://www.linkedin.com/in/christopher-amanor-81a7b93b/)
 
+👤 **Safa ERDEN**
+
+- Github: [@SafaErden](https://github.com/SafaErden)
+- Twitter: [@safaerden](https://twitter.com/safaerden)
+- Linkedin: [SafaErden](https://www.linkedin.com/in/safaerden/)
+
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/SafaErden/Micro-Reddit/issues).
 
 ## Show your support
 
